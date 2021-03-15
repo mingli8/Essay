@@ -2,3 +2,5 @@ The best C# articles from 2019
 • lesser-known features of C# that you should be using
 • dangerous mistakes in .NET that are easy to make
 • 6 types of code you shouldn’t have inside your .NET controllers
+• SOLID Principles: Explanation and examples
+• C# Async Tips & Tricks
